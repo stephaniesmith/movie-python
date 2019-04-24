@@ -7,3 +7,5 @@ print(toy_story.storyline)
 avatar = media.Movie('Avatar', 'A story about avatar', 'link', 'link')
 
 print(avatar.storyline)
+
+toy_story.show_trailer()
